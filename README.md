@@ -1,5 +1,7 @@
 # Location-Based Android Chat App
-Location-based messaging application, built for Android with Java. 
+Location-based messaging application, built for Android with Java. Google Firebase was used to store data and to and provide back-end services, including notifications and authentication. 
+
+A core aspect of the development process was to create a 'location-aware', application, which would respond and interact accordingly wiht other application users. For this, the Google Maps API was used, alongside 
 
 # Click on the thumbnail to watch a video of this app in action!
 
