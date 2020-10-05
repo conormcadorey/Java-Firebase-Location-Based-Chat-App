@@ -5,5 +5,5 @@ A core aspect of the development process was to create a 'location-aware', appli
 
 # Click on the thumbnail to watch a video of this app in action!
 
-[![Watch the video](https://img.youtube.com/vi/aoSuEjYNPmY/default.jpg)](https://youtu.be/aoSuEjYNPmY)
+[![Watch the video](https://img.youtube.com/vi/aoSuEjYNPmY/hqdefault.jpg)](https://youtu.be/aoSuEjYNPmY)
 
