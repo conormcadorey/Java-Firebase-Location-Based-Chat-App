@@ -18,7 +18,7 @@ APIs:
 Other:
 - Node JS
 
-# Click on the thumbnail to watch a video of this app in action!
+# Click on the thumbnail to watch a video of this App in action!
 
 [![Watch the video](https://img.youtube.com/vi/aoSuEjYNPmY/hqdefault.jpg)](https://youtu.be/aoSuEjYNPmY)
 
